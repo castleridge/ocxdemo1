@@ -1,0 +1,15 @@
+{
+    "name": "Simple Node App",
+    "image": "node:22",
+    "features": {
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscode.typescript-language-features",
+                "vscode.typescript"
+            ]
+        }
+    },   
+    "forwardPorts": [3030]
+}
