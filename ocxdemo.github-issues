@@ -1,0 +1,12 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "**This are my open issues**"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$repo=repo:castleridge/ocxdemo1\r\n$repo is:open no:assignee\r\n"
+  }
+]
